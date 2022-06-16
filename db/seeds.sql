@@ -19,11 +19,11 @@ VALUES
 INSERT INTO employee (first_name, last_name, role_id, manager_id)
 VALUES
     ("Shay", "Bendeck", 1 , 1),
-    ("Yafei", "Liu", 2 , 1),
-    ("Toni", "Murtazaev", 3 , 3),
-    ("Taeyoung", "Lee", 4 , 3),
-    ("Kamal", "Kaur", 5 , 5),
-    ("Saad", "Mian", 6 , 5),
-    ("Elliot", "Waxman", 7 , 7),
-    ("Destiny", "Henry", 8 , 7);
+    ("Mike", "Liu", 2 , 1),
+    ("Toni", "Rodriguez", 3 , 3),
+    ("Taeyoung", "Tupik", 4 , 3),
+    ("Kamal", "Singh", 5 , 5),
+    ("Saad", "brown", 6 , 5),
+    ("Elliot", "Lourd", 7 , 7),
+    ("Destiny", "Allen", 8 , 7);
 
