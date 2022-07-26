@@ -23,7 +23,7 @@ VALUES
     ("Toni", "Rodriguez", 3 , 3),
     ("Taeyoung", "Tupik", 4 , 3),
     ("Kamal", "Singh", 5 , 5),
-    ("Saad", "brown", 6 , 5),
+    ("Saad", "Brown", 6 , 5),
     ("Elliot", "Lourd", 7 , 7),
     ("Destiny", "Allen", 8 , 7);
 

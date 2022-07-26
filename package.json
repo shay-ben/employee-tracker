@@ -1,14 +1,25 @@
 {
-  "name": "note-taker",
+  "name": "10-employee-tracker",
   "version": "1.0.0",
-  "description": "",
-  "main": "server.js",
+  "description": "## Your Task",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shay-ben/employee-tracker.git"
+  },
+  "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shay-ben/employee-tracker/issues"
+  },
+  "homepage": "https://github.com/shay-ben/employee-tracker#readme",
   "dependencies": {
-    "express": "^4.16.4"
+    "console.table": "^0.10.0",
+    "inquirer": "^9.0.2",
+    "mysql2": "^2.3.3"
   }
 }
