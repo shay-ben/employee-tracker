@@ -1,7 +1,8 @@
+const inquirer = require("inquirer")
+const mysql = require("mysql")
+
 
 // initial
-
-
 function startPrompt() {
     inquirer.prompt([
     {
